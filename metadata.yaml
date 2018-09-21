@@ -1,5 +1,5 @@
 _repo: Faust_54202
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Delacroix, Eugène
@@ -20,6 +20,9 @@ contributor:
     deathdate: 1840
     gutenberg_agent_id: '47765'
     url: http://www.gutenberg.org/2009/agents/47765
+covers:
+- cover_type: archival
+  image_path: 54202-h/images/cover02.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -32,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54202#Faust
 gutenberg_bookshelf:
 - FR Théâtre
 - FR Illustrateurs
