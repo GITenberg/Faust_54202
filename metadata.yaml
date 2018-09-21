@@ -1,0 +1,53 @@
+_repo: Faust_54202
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Delacroix, Eugène
+    aliases:
+    - Delacroix, Ferdinand Victor Eugène
+    - Delacroix, Eugene
+    birthdate: 1798
+    deathdate: 1863
+    gutenberg_agent_id: '47658'
+    url: http://www.gutenberg.org/2009/agents/47658
+  translator:
+    agent_name: Stapfer, Philipp Albert
+    aliases:
+    - Stapfer, Albert
+    - Stapfer, P. A. (Philipp Albert)
+    - Stapfer, Philippe-Albert
+    birthdate: 1766
+    deathdate: 1840
+    gutenberg_agent_id: '47765'
+    url: http://www.gutenberg.org/2009/agents/47765
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- FR Illustrateurs
+gutenberg_issued: '2017-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54202'
+  lccn: '17018007'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goethe, Johann Wolfgang von, 1749-1832. Faust -- Illustrations'
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcc 'PT'
+- GITenberg
+title: Faust
+url: http://www.gutenberg.org/ebooks/54202
